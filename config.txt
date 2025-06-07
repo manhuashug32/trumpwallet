@@ -1,0 +1,16 @@
+[Email Configuration]
+imap_server = imap.qq.com
+imap_port = 993
+imap_username = //QQ邮箱
+imap_password = //QQ邮箱imap
+
+[Registration Page]
+url = //链接码
+
+[Email Domain]
+domain = //缀名
+digits = 11
+
+[Timing]
+verification_wait_time = 5
+cleanup_wait_time = 8 
